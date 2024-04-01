@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Jefferson Izaquiel - QA Lead"
+    email: "jeff@email.com"
+  onCallSupport:
+    - (743) 241-4351
+    - (213) 236-7452

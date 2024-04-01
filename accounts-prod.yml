@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Jefferson izaquiel - Product Owner"
+    email: "jeff@email.com"
+  onCallSupport:
+    - (152) 152-1214
+    - (235) 223-1345
